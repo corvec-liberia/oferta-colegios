@@ -35,7 +35,7 @@ window.CORVEC_DATA = {
         {
           "name": "Óscar Campos Rodríguez",
           "role": "Coordinación con la Empresa – CTP de Liberia, jornada diurna",
-          "phone": "7204 5397",
+          "phone": "7102 4583",
           "email": "oscar.campos.rodriguez@mep.go.cr"
         },
         {
