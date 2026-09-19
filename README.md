@@ -21,8 +21,8 @@ La fuente editable es data/catalogo.json. Después de editarla, actualizar data/
 ## Criterios y pendientes
 - Liberia: oferta general del Word; el detalle incluye la selección 2027 del PowerPoint, sin confundirla con la oferta consolidada.
 - Cañas: el correo diurno incluye una tilde en el original y no se publica como enlace. Se ofrece teléfono. Nombre nocturno Zamara y correo Zamora se mantienen según fuente, pendientes de confirmación.
-- Liberia y CINDEA La Palma no incluyen correo/teléfono en sus insumos; no se inventaron contactos.
-- Los escudos de CORVEC, Tronadora y el archivo independiente de CINDEA Tilarán quedan pendientes. Se usa marca tipográfica provisional, no un escudo inventado.
+- Los contactos de Liberia diurno (Óscar Campos) y nocturno (Hazel Marchena) fueron proporcionados por el usuario. CINDEA La Palma no incluye correo/teléfono en su insumo.
+- Escudo oficial CORVEC incorporado en cabecera, pie y favicon, tal como fue proporcionado. Quedan pendientes los escudos de Tronadora y el archivo independiente de CINDEA Tilarán.
 - No se publican los documentos originales.
 - Fotografías de Pexels de carácter ilustrativo; autores y referencias en data/imagenes.json y en el pie de página. No representan estudiantes ni instalaciones de los centros.
 - Áreas son agrupaciones de navegación, no clasificación oficial MEP.
