@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "author": "Antoni Shkraba",
+    "source": "https://www.pexels.com/photo/5306450/",
+    "license": "https://www.pexels.com/license/",
+    "note": "Fotografía ilustrativa; no representa un centro CORVEC."
+  },
+  "tecnologia": {
+    "author": "Max Fischer",
+    "source": "https://www.pexels.com/photo/5212687/",
+    "license": "https://www.pexels.com/license/",
+    "note": "Fotografía ilustrativa; no representa un centro CORVEC."
+  },
+  "industria": {
+    "author": "Mikhail Nilov",
+    "source": "https://www.pexels.com/photo/9242855/",
+    "license": "https://www.pexels.com/license/",
+    "note": "Fotografía ilustrativa; no representa un centro CORVEC."
+  },
+  "turismo": {
+    "author": "Rene Terp",
+    "source": "https://www.pexels.com/photo/2544829/",
+    "license": "https://www.pexels.com/license/",
+    "note": "Fotografía ilustrativa; no representa un centro CORVEC."
+  },
+  "negocios": {
+    "author": "Edmond Dantès",
+    "source": "https://www.pexels.com/photo/4344116/",
+    "license": "https://www.pexels.com/license/",
+    "note": "Fotografía ilustrativa; no representa un centro CORVEC."
+  },
+  "agro": {
+    "author": "Swastik Arora",
+    "source": "https://www.pexels.com/photo/10326925/",
+    "license": "https://www.pexels.com/license/",
+    "note": "Fotografía ilustrativa; no representa un centro CORVEC."
+  },
+  "servicios": {
+    "author": "Chevanon Photography",
+    "source": "https://www.pexels.com/photo/1108101/",
+    "license": "https://www.pexels.com/license/",
+    "note": "Fotografía ilustrativa; no representa un centro CORVEC."
+  }
+}

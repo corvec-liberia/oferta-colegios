@@ -1,0 +1,984 @@
+{
+  "version": "2.0",
+  "updated": "2026-09-19",
+  "schools": [
+    {
+      "id": "liberia",
+      "name": "CTP de Liberia",
+      "location": "Liberia, Guanacaste",
+      "period": "Oferta general · fuentes 2026–2027",
+      "source": "Oferta_Educativa_CTP_Liberia.docx; Oferta_Educativa_2026_2027_CTP_Liberia_Nocturna_Diurna.pptx",
+      "day": [
+        "Administración, Logística y Distribución",
+        "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+        "Contabilidad y Finanzas",
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Electromecánica",
+        "Gerencia y Producción en Cocina",
+        "Operaciones de Empresas de Alojamiento",
+        "Procesos Productivos e Inspección en la Industria Alimentaria",
+        "Producción Agrícola y Pecuaria",
+        "Secretariado Ejecutivo"
+      ],
+      "night": [
+        "Administración, Logística y Distribución",
+        "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+        "Configuración y Administración de Servicios en la Nube",
+        "Contabilidad y Finanzas",
+        "Electromecánica",
+        "Gerencia y Producción en Cocina",
+        "Operaciones de Empresas de Alojamiento",
+        "Procesos Productivos e Inspección en la Industria Alimentaria",
+        "Secretariado Ejecutivo"
+      ],
+      "contacts": [],
+      "note": "La oferta general reúne las especialidades del documento Word. La presentación distingue la oferta de 2026 y 2027; consulte abajo la selección específica de 2027. La apertura de grupos debe confirmarse con el centro.",
+      "logo": "assets/logo-liberia.png",
+      "offer2027": {
+        "day": [
+          "Administración, Logística y Distribución",
+          "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+          "Contabilidad y Finanzas",
+          "Ejecutivo Comercial y de Servicio al Cliente",
+          "Electromecánica",
+          "Gerencia y Producción en Cocina",
+          "Producción Agrícola y Pecuaria"
+        ],
+        "night": [
+          "Contabilidad y Finanzas",
+          "Configuración y Administración de Servicios en la Nube",
+          "Electromecánica",
+          "Gerencia y Producción en Cocina",
+          "Operaciones de Empresas de Alojamiento",
+          "Procesos Productivos e Inspección en la Industria Alimentaria",
+          "Secretariado Ejecutivo"
+        ]
+      },
+      "offers": [
+        {
+          "name": "Administración, Logística y Distribución",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Contabilidad y Finanzas",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Electromecánica",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Gerencia y Producción en Cocina",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Operaciones de Empresas de Alojamiento",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Procesos Productivos e Inspección en la Industria Alimentaria",
+          "mode": "Diurna",
+          "area": "agro"
+        },
+        {
+          "name": "Producción Agrícola y Pecuaria",
+          "mode": "Diurna",
+          "area": "agro"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Administración, Logística y Distribución",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Configuración y Administración de Servicios en la Nube",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Contabilidad y Finanzas",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Electromecánica",
+          "mode": "Nocturna",
+          "area": "industria"
+        },
+        {
+          "name": "Gerencia y Producción en Cocina",
+          "mode": "Nocturna",
+          "area": "turismo"
+        },
+        {
+          "name": "Operaciones de Empresas de Alojamiento",
+          "mode": "Nocturna",
+          "area": "turismo"
+        },
+        {
+          "name": "Procesos Productivos e Inspección en la Industria Alimentaria",
+          "mode": "Nocturna",
+          "area": "agro"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Nocturna",
+          "area": "negocios"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "id": "abangares",
+      "name": "CTP de Abangares",
+      "location": "Las Juntas, Abangares",
+      "period": "2026–2027",
+      "source": "Oferta Educativa Técnica CTP de Abangares 2026-2027.pptx",
+      "day": [
+        "Electrónica Industrial",
+        "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+        "Contabilidad y Costos",
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Gerencia y Producción en Cocina",
+        "Ecoturismo",
+        "Desarrollo de Aplicaciones de Software",
+        "Electromecánica"
+      ],
+      "night": [
+        "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+        "Contabilidad y Costos",
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Contabilidad",
+        "Secretariado Ejecutivo",
+        "Electrónica Industrial",
+        "Gerencia y Producción en Cocina"
+      ],
+      "contacts": [
+        {
+          "name": "Contacto institucional",
+          "role": "Diurna y nocturna",
+          "email": "ctp.deabangares@mep.go.cr",
+          "phone": "2662-1798"
+        }
+      ],
+      "note": "",
+      "logo": "assets/logo-abangares.jpeg",
+      "offers": [
+        {
+          "name": "Electrónica Industrial",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Contabilidad y Costos",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Gerencia y Producción en Cocina",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Ecoturismo",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Desarrollo de Aplicaciones de Software",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Electromecánica",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Contabilidad y Costos",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Electrónica Industrial",
+          "mode": "Nocturna",
+          "area": "industria"
+        },
+        {
+          "name": "Gerencia y Producción en Cocina",
+          "mode": "Nocturna",
+          "area": "turismo"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "id": "upala",
+      "name": "CTP de Upala",
+      "location": "Upala, Alajuela",
+      "period": "2026",
+      "source": "Información oferta educativa CTP UPALA 2026.docx",
+      "day": [
+        "Agroecología",
+        "Producción Agrícola y Pecuaria",
+        "Procesos Productivos e Inspección en la Industria Alimentaria",
+        "Agroindustria Alimentaria con Tecnología Pecuaria",
+        "Ecoturismo",
+        "Turismo Rural",
+        "Organización de Empresas de Turismo Rural",
+        "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+        "Operaciones de Empresas de Alojamiento",
+        "Secretariado Ejecutivo",
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Contabilidad",
+        "Contabilidad y Costos",
+        "Inteligencia Artificial",
+        "Desarrollo de Aplicaciones Móviles"
+      ],
+      "night": [
+        "Contabilidad",
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Secretariado Ejecutivo",
+        "Procesos Productivos e Inspección en la Industria Alimentaria",
+        "Desarrollo de Aplicaciones Móviles",
+        "Desarrollo de Aplicaciones de Software",
+        "Ciberseguridad",
+        "Organización de Operaciones y Servicios de Alimentos y Bebidas"
+      ],
+      "contacts": [
+        {
+          "name": "Kattia Mesén Lizano",
+          "role": "Coordinación diurna",
+          "email": "kattia.mesen.lizano@mep.go.cr",
+          "phone": "8801-3659"
+        },
+        {
+          "name": "Carla Morales Zúñiga",
+          "role": "Coordinación nocturna",
+          "email": "carla.morales.zuniga@mep.go.cr",
+          "phone": "8482-7687"
+        },
+        {
+          "name": "Contacto institucional",
+          "role": "100 metros este del Hospital de Upala",
+          "email": "ctp.deupala@mep.go.cr",
+          "phone": "2470-0081"
+        }
+      ],
+      "note": "",
+      "logo": "assets/logo-upala.jpeg",
+      "offers": [
+        {
+          "name": "Agroecología",
+          "mode": "Diurna",
+          "area": "agro"
+        },
+        {
+          "name": "Producción Agrícola y Pecuaria",
+          "mode": "Diurna",
+          "area": "agro"
+        },
+        {
+          "name": "Procesos Productivos e Inspección en la Industria Alimentaria",
+          "mode": "Diurna",
+          "area": "agro"
+        },
+        {
+          "name": "Agroindustria Alimentaria con Tecnología Pecuaria",
+          "mode": "Diurna",
+          "area": "agro"
+        },
+        {
+          "name": "Ecoturismo",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Turismo Rural",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Organización de Empresas de Turismo Rural",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Operaciones de Empresas de Alojamiento",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad y Costos",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Inteligencia Artificial",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Desarrollo de Aplicaciones Móviles",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Procesos Productivos e Inspección en la Industria Alimentaria",
+          "mode": "Nocturna",
+          "area": "agro"
+        },
+        {
+          "name": "Desarrollo de Aplicaciones Móviles",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Desarrollo de Aplicaciones de Software",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Ciberseguridad",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+          "mode": "Nocturna",
+          "area": "turismo"
+        }
+      ],
+      "count": 17
+    },
+    {
+      "id": "barrio-irvin",
+      "name": "CTP Barrio Irvin",
+      "location": "La Cruz, Guanacaste",
+      "period": "Oferta técnica · año no indicado",
+      "source": "Información Talent Costa Rica – CTP Barrio Irvin.docx",
+      "day": [
+        "Administración y Operación Aduanera",
+        "Contabilidad",
+        "Desarrollo de Aplicaciones de Software",
+        "Desarrollo Web",
+        "Ecoturismo",
+        "Gestión de la Calidad",
+        "Operaciones de Empresas de Alojamiento",
+        "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+        "Secretariado Ejecutivo"
+      ],
+      "night": [
+        "Administración y Operación Aduanera",
+        "Contabilidad",
+        "Diseño de Productos Industriales Textiles",
+        "Gerencia y Producción en Cocina",
+        "Operaciones de Empresas de Alojamiento",
+        "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+        "Secretariado Ejecutivo"
+      ],
+      "contacts": [
+        {
+          "name": "Ana Graciela Alarcón Castillo",
+          "role": "Coordinación diurna",
+          "email": "ana.alarcon.castillo@mep.go.cr",
+          "phone": "7281-1784"
+        },
+        {
+          "name": "Luis Ángel Castillo García",
+          "role": "Coordinación nocturna",
+          "email": "luis.castillo.garcia@mep.go.cr",
+          "phone": "8632-8807"
+        }
+      ],
+      "note": "",
+      "logo": "assets/logo-barrio-irvin.jpg",
+      "offers": [
+        {
+          "name": "Administración y Operación Aduanera",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Desarrollo de Aplicaciones de Software",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Desarrollo Web",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Ecoturismo",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Gestión de la Calidad",
+          "mode": "Diurna",
+          "area": "servicios"
+        },
+        {
+          "name": "Operaciones de Empresas de Alojamiento",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Administración y Operación Aduanera",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Diseño de Productos Industriales Textiles",
+          "mode": "Nocturna",
+          "area": "industria"
+        },
+        {
+          "name": "Gerencia y Producción en Cocina",
+          "mode": "Nocturna",
+          "area": "turismo"
+        },
+        {
+          "name": "Operaciones de Empresas de Alojamiento",
+          "mode": "Nocturna",
+          "area": "turismo"
+        },
+        {
+          "name": "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+          "mode": "Nocturna",
+          "area": "turismo"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Nocturna",
+          "area": "negocios"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "id": "tronadora",
+      "name": "CTP Tronadora",
+      "location": "Tronadora, Tilarán",
+      "period": "2026–2027",
+      "source": "OFERTA EDUCATVA CTP TRONADORA 2027.docx",
+      "day": [
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Electrónica Industrial",
+        "Organización de Empresas de Turismo Rural",
+        "Operaciones de Empresas de Alojamiento"
+      ],
+      "night": [
+        "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+        "Electrónica Industrial",
+        "Operaciones de Empresas de Alojamiento"
+      ],
+      "contacts": [
+        {
+          "name": "Heilyn Rodríguez Mora",
+          "role": "Coordinación diurna",
+          "email": "heilyn.rodriguez.mora@mep.go.cr",
+          "phone": "8681-9930"
+        },
+        {
+          "name": "Beatriz Quirós Elizondo",
+          "role": "Coordinación nocturna",
+          "email": "beatriz.quiros.elizondo@mep.go.cr",
+          "phone": "8820-1909"
+        },
+        {
+          "name": "Contacto institucional",
+          "role": "100 metros norte del Redondel de Toros",
+          "email": "ctp.tronadora@mep.go.cr",
+          "phone": "2693-1066"
+        }
+      ],
+      "note": "",
+      "offers": [
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Electrónica Industrial",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Organización de Empresas de Turismo Rural",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Operaciones de Empresas de Alojamiento",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Configuración y Soporte a Redes de Comunicación y Sistemas Operativos",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Electrónica Industrial",
+          "mode": "Nocturna",
+          "area": "industria"
+        },
+        {
+          "name": "Operaciones de Empresas de Alojamiento",
+          "mode": "Nocturna",
+          "area": "turismo"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "id": "canas",
+      "name": "CTP Cañas",
+      "location": "Cañas, Guanacaste",
+      "period": "2027",
+      "source": "Oferta_Especialidades_CTP Cañas_2027.pptx",
+      "day": [
+        "Asistencia Técnica en Ingeniería Civil",
+        "Desarrollo de Aplicaciones de Software",
+        "Dibujo y Modelado para Edificaciones",
+        "Electromecánica",
+        "Instalación y Mantenimiento de Sistemas Eléctricos Industriales",
+        "Inteligencia Artificial",
+        "Mantenimiento de Sistemas de Aire Acondicionado Industrial",
+        "Salud Ocupacional"
+      ],
+      "night": [
+        "Instalación y Mantenimiento de Sistemas Eléctricos Industriales",
+        "Mantenimiento de Sistemas de Aire Acondicionado Industrial"
+      ],
+      "contacts": [
+        {
+          "name": "Marielos Barahona Ortega",
+          "role": "Coordinación diurna · contacto por teléfono",
+          "email": "",
+          "phone": "2668-7232"
+        },
+        {
+          "name": "Paula Zamara Chacón",
+          "role": "Coordinación nocturna",
+          "email": "paula.Zamora.chacon@mep.go.cr",
+          "phone": "2668-9015"
+        }
+      ],
+      "note": "El correo diurno del archivo contiene una tilde; se ofrece el teléfono institucional mientras se confirma su escritura. El nombre de la coordinadora nocturna y su correo se transcriben tal como aparecen en la presentación.",
+      "logo": "assets/logo-canas.png",
+      "offers": [
+        {
+          "name": "Asistencia Técnica en Ingeniería Civil",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Desarrollo de Aplicaciones de Software",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Dibujo y Modelado para Edificaciones",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Electromecánica",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Instalación y Mantenimiento de Sistemas Eléctricos Industriales",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Inteligencia Artificial",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Mantenimiento de Sistemas de Aire Acondicionado Industrial",
+          "mode": "Diurna",
+          "area": "industria"
+        },
+        {
+          "name": "Salud Ocupacional",
+          "mode": "Diurna",
+          "area": "servicios"
+        },
+        {
+          "name": "Instalación y Mantenimiento de Sistemas Eléctricos Industriales",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Mantenimiento de Sistemas de Aire Acondicionado Industrial",
+          "mode": "Nocturna",
+          "area": "industria"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "id": "fortuna",
+      "name": "CTP Fortuna de Bagaces",
+      "location": "Fortuna, Bagaces",
+      "period": "2027",
+      "source": "Oferta_Especialidades_CTP_Fortuna_2027.pptx",
+      "day": [
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Ecoturismo",
+        "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+        "Procesos Productivos e Inspección en la Industria Alimentaria"
+      ],
+      "night": [
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Contabilidad"
+      ],
+      "contacts": [
+        {
+          "name": "Jenniffer González Sibaja",
+          "role": "Coordinación diurna",
+          "email": "jenniffer.gonzalez.sibaja@mep.go.cr",
+          "phone": "2673-0027"
+        },
+        {
+          "name": "Massiel Vargas Rosales",
+          "role": "Coordinación nocturna",
+          "email": "massiel.vargas.rosales@mep.go.cr",
+          "phone": "2673-0027"
+        }
+      ],
+      "note": "",
+      "logo": "assets/logo-fortuna.jpeg",
+      "offers": [
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Ecoturismo",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Organización de Operaciones y Servicios de Alimentos y Bebidas",
+          "mode": "Diurna",
+          "area": "turismo"
+        },
+        {
+          "name": "Procesos Productivos e Inspección en la Industria Alimentaria",
+          "mode": "Diurna",
+          "area": "agro"
+        },
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Nocturna",
+          "area": "negocios"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "id": "tilaran",
+      "name": "CINDEA Tilarán",
+      "location": "Tilarán, Guanacaste",
+      "period": "2027",
+      "source": "Oferta Educativa Cindea Tilaran 2027.pptx",
+      "day": [
+        "Secretariado Ejecutivo",
+        "Contabilidad y Control Interno",
+        "Informática en Desarrollo de Aplicaciones Móviles",
+        "Salud Ocupacional"
+      ],
+      "night": [
+        "Secretariado Ejecutivo",
+        "Contabilidad y Control Interno",
+        "Informática en Desarrollo de Aplicaciones Móviles",
+        "Salud Ocupacional"
+      ],
+      "contacts": [
+        {
+          "name": "Roberto Rivera García",
+          "role": "Coordinación técnica",
+          "email": "roberto.rivera.garcia@mep.go.cr",
+          "phone": "7106-5860"
+        },
+        {
+          "name": "Roberto Pineda Miranda",
+          "role": "Coordinación con la empresa",
+          "email": "roberto.pineda.miranda@mep.go.cr",
+          "phone": "8647-6464"
+        }
+      ],
+      "note": "",
+      "offers": [
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad y Control Interno",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Informática en Desarrollo de Aplicaciones Móviles",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Salud Ocupacional",
+          "mode": "Diurna",
+          "area": "servicios"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad y Control Interno",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Informática en Desarrollo de Aplicaciones Móviles",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Salud Ocupacional",
+          "mode": "Nocturna",
+          "area": "servicios"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "id": "la-palma",
+      "name": "CINDEA La Palma",
+      "location": "La Palma · DRE Cañas",
+      "period": "2027",
+      "source": "OFERTA EDUCATIVA 2027- CINDEA LA PALMA.docx",
+      "day": [
+        "Desarrollo de Aplicaciones Móviles"
+      ],
+      "night": [
+        "Desarrollo de Aplicaciones de Software",
+        "Contabilidad",
+        "Secretariado Ejecutivo",
+        "Contabilidad y Finanzas"
+      ],
+      "contacts": [
+        {
+          "name": "Nurya Vásquez García",
+          "role": "Coordinación con la empresa",
+          "email": "",
+          "phone": ""
+        }
+      ],
+      "note": "",
+      "logo": "assets/logo-la-palma.png",
+      "offers": [
+        {
+          "name": "Desarrollo de Aplicaciones Móviles",
+          "mode": "Diurna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Desarrollo de Aplicaciones de Software",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad y Finanzas",
+          "mode": "Nocturna",
+          "area": "negocios"
+        }
+      ],
+      "count": 5
+    }
+  ],
+  "areas": [
+    {
+      "id": "tecnologia",
+      "name": "Tecnologías de información",
+      "short": "Tecnología",
+      "description": "Software, redes, nube e inteligencia artificial.",
+      "image": "assets/tecnologia.jpg"
+    },
+    {
+      "id": "industria",
+      "name": "Industria e ingeniería",
+      "short": "Industria",
+      "description": "Electromecánica, electrónica y construcción.",
+      "image": "assets/industria.jpg"
+    },
+    {
+      "id": "turismo",
+      "name": "Turismo y gastronomía",
+      "short": "Turismo y gastronomía",
+      "description": "Hospitalidad, experiencias y arte culinario.",
+      "image": "assets/turismo.jpg"
+    },
+    {
+      "id": "negocios",
+      "name": "Administración y comercio",
+      "short": "Negocios",
+      "description": "Finanzas, logística y servicios empresariales.",
+      "image": "assets/negocios.jpg"
+    },
+    {
+      "id": "agro",
+      "name": "Agro y alimentos",
+      "short": "Agro y alimentos",
+      "description": "Producción, sostenibilidad e industria alimentaria.",
+      "image": "assets/agro.jpg"
+    },
+    {
+      "id": "servicios",
+      "name": "Calidad y salud ocupacional",
+      "short": "Calidad y seguridad",
+      "description": "Entornos de trabajo seguros y mejora de procesos.",
+      "image": "assets/servicios.jpg"
+    }
+  ],
+  "notes": [
+    "La oferta es informativa; los períodos proceden de cada insumo. No equivale a una confirmación de apertura de grupos.",
+    "Se normalizó la ortografía y se expandió A&B como Alimentos y Bebidas. Las denominaciones que pueden corresponder a planes distintos se conservan.",
+    "No se publican los documentos originales: el portal contiene únicamente oferta y contactos profesionales incluidos en ellos."
+  ]
+}
