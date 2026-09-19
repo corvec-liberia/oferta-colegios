@@ -618,6 +618,7 @@
         }
       ],
       "note": "",
+      "logo": "assets/logo-tronadora.jpg",
       "offers": [
         {
           "name": "Ejecutivo Comercial y de Servicio al Cliente",
@@ -908,9 +909,11 @@
       "contacts": [
         {
           "name": "Nurya Vásquez García",
-          "role": "Coordinación con la empresa",
-          "email": "",
-          "phone": ""
+          "role": "Coordinación con la Empresa",
+          "email": "nurya.vasquez.garcia@mep.go.cr",
+          "phone": "2662-8037",
+          "phone2": "8553-2576",
+          "address": "Guanacaste, Abangares, Las Juntas, La Palma, 500 mts este del Restaurante El Vaquero"
         }
       ],
       "note": "",

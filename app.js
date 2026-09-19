@@ -47,7 +47,7 @@ dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoun
 function offerColumns(day,night){return `<div class="dialog-columns"><div><h3>☀ Jornada diurna</h3><ul>${day.map(n=>`<li>${esc(n)}</li>`).join('')}</ul></div><div><h3>☾ Jornada nocturna</h3><ul>${night.map(n=>`<li>${esc(n)}</li>`).join('')}</ul></div></div>`;}
 function contactCards(s,topic='Vinculación empresarial'){
  if(!s.contacts.length)return '<p class="note">Los insumos de este centro no incluyen un contacto. Su información se incorporará cuando esté disponible.</p>';
- return `<div class="contact-list">${s.contacts.map(c=>`<div class="contact-card"><strong>${esc(c.name)}</strong><p>${esc(c.role)}</p>${c.email?`<a href="mailto:${encodeURIComponent(c.email)}?subject=${encodeURIComponent(topic+' · CORVEC')}" aria-label="Escribir a ${esc(c.name)}">${esc(c.email)}</a>`:''}${c.phone?`<a href="tel:+506${c.phone.replace(/\D/g,'')}">+506 ${esc(c.phone)}</a>`:''}${!c.email&&!c.phone?'<p>Correo y teléfono no incluidos en el insumo.</p>':''}</div>`).join('')}</div>`;
+ return `<div class="contact-list">${s.contacts.map(c=>`<div class="contact-card"><strong>${esc(c.name)}</strong><p>${esc(c.role)}</p>${c.email?`<a href="mailto:${encodeURIComponent(c.email)}?subject=${encodeURIComponent(topic+' · CORVEC')}" aria-label="Escribir a ${esc(c.name)}">${esc(c.email)}</a>`:''}${c.phone?`<a href="tel:+506${c.phone.replace(/\D/g,'')}">+506 ${esc(c.phone)}</a>`:''}${c.phone2?`<a href="tel:+506${c.phone2.replace(/\D/g,'')}">+506 ${esc(c.phone2)}</a>`:''}${c.address?`<p>${esc(c.address)}</p>`:''}${!c.email&&!c.phone&&!c.phone2?'<p>Correo y teléfono no incluidos en el insumo.</p>':''}</div>`).join('')}</div>`;
 }
 function showSchool(id){
  const s=schoolById[id];if(!s)return;
