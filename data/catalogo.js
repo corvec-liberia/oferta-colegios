@@ -1,6 +1,6 @@
 window.CORVEC_DATA = {
-  "version": "2.0",
-  "updated": "2026-09-19",
+  "version": "2.1",
+  "updated": "2026-09-23",
   "schools": [
     {
       "id": "liberia",
@@ -946,6 +946,156 @@ window.CORVEC_DATA = {
         }
       ],
       "count": 5
+    },
+    {
+      "id": "bebedero",
+      "name": "CINDEA Bebedero",
+      "location": "Bebedero, Cañas, Guanacaste",
+      "period": "Oferta técnica 2027",
+      "source": "Oferta Educativa 2027 CINDEA Bebedero.pptx",
+      "day": [],
+      "night": [
+        "Secretariado",
+        "Contabilidad",
+        "Administración, Logística y Distribución",
+        "Mercadeo",
+        "Desarrollo Web"
+      ],
+      "contacts": [
+        {
+          "name": "Alejandra Cordero Picado",
+          "role": "Coordinación con la Empresa y vínculo empresarial",
+          "email": "maría.cordero.picado@mep.go.cr",
+          "phone": "2674-002",
+          "address": "50 metros este del Salón Comunal, Bebedero, Cañas, Guanacaste"
+        }
+      ],
+      "note": "Oferta de la Sección Técnica Nocturna para 2027. El teléfono institucional se transcribe exactamente del insumo recibido.",
+      "logo": "",
+      "offers": [
+        {
+          "name": "Secretariado",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Contabilidad",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Administración, Logística y Distribución",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Mercadeo",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Desarrollo Web",
+          "mode": "Nocturna",
+          "area": "tecnologia"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "id": "ipec-canas",
+      "name": "IPEC Cañas",
+      "location": "Cañas, Guanacaste",
+      "period": "Oferta educativa 2027",
+      "source": "OFERTA EDUCATIVA IPEC Cañas 2026.jpeg; datos de contacto confirmados por la Coordinación",
+      "day": [
+        "Ejecutivo Comercial y de Servicio al Cliente"
+      ],
+      "night": [
+        "Ejecutivo Comercial y de Servicio al Cliente",
+        "Salud Ocupacional"
+      ],
+      "contacts": [
+        {
+          "name": "Tatiana Segura",
+          "role": "Contacto directo",
+          "phone": "8316-1647"
+        },
+        {
+          "name": "Contacto institucional",
+          "role": "IPEC Cañas",
+          "phone": "2669-3575",
+          "phone2": "2669-3595"
+        }
+      ],
+      "note": "La imagen institucional indica que esta oferta educativa fue aprobada para el curso lectivo 2027.",
+      "logo": "",
+      "offers": [
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Diurna",
+          "area": "negocios"
+        },
+        {
+          "name": "Ejecutivo Comercial y de Servicio al Cliente",
+          "mode": "Nocturna",
+          "area": "negocios"
+        },
+        {
+          "name": "Salud Ocupacional",
+          "mode": "Nocturna",
+          "area": "servicios"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "id": "ipec-liberia",
+      "name": "IPEC Liberia",
+      "location": "Liberia, Guanacaste",
+      "period": "Oferta educativa 2027",
+      "source": "OFERTA EDUCATIVA IPEC LIBERIA 2027.pptx",
+      "day": [],
+      "night": [],
+      "general": [
+        "Administración y Operación Aduanera",
+        "Secretariado Ejecutivo",
+        "Salud Ocupacional",
+        "Contabilidad y Finanzas"
+      ],
+      "contacts": [
+        {
+          "name": "Katherine Ariana Díaz Alvarado",
+          "role": "Coordinadora con la Empresa",
+          "phone": "8542-8017",
+          "email": "katherine.diaz.alvarado@mep.go.cr",
+          "address": "Liberia, Guanacaste, barrio Moracia, costado norte de la plaza de fútbol."
+        }
+      ],
+      "note": "El insumo 2027 confirma oferta diurna y nocturna, pero no permite asociar con certeza cada especialidad a una jornada específica. Por ello se presenta como oferta general.",
+      "logo": "",
+      "offers": [
+        {
+          "name": "Administración y Operación Aduanera",
+          "mode": "General",
+          "area": "negocios"
+        },
+        {
+          "name": "Secretariado Ejecutivo",
+          "mode": "General",
+          "area": "negocios"
+        },
+        {
+          "name": "Salud Ocupacional",
+          "mode": "General",
+          "area": "servicios"
+        },
+        {
+          "name": "Contabilidad y Finanzas",
+          "mode": "General",
+          "area": "negocios"
+        }
+      ],
+      "count": 4
     }
   ],
   "areas": [
